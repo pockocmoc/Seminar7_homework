@@ -1,0 +1,6 @@
+[Вася Пупкин, 123-54-54, vasya@gmail.com]
+[Oleg Petrov, 324-65-43, asd@mail.ru]
+[Александр Пушкин, 234-54-54, sf@sdf.ru]
+[Misha Petrov, 234-43-23, askd@sdf.com]
+[Марат Сабиров, 432-43-21, pockocmoc@inbox.ru]
+[Егор Летов, 234-54-32, as@dk.com]
